@@ -502,6 +502,7 @@ body {
   align-items: center;
   padding-left: 42px;
   white-space: nowrap;
+  cursor: pointer;
 }
 /* ====================FOOTER-END==================== */
 
