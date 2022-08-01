@@ -500,7 +500,7 @@ body {
   font-size: 16px;
   line-height: 1.88;
 }
-.sing-up {
+.sign-up {
   display: flex;
   gap: 24px;
   align-items: center;
@@ -681,7 +681,6 @@ body {
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
   padding: 0 20px 0 40px;
-  padding-left: 30px;
 }
 .order-label > input:focus,
 .order-label > input:hover,
@@ -736,7 +735,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 10px;
-  white-space: pre nowrap;
+  white-space: nowrap;
   gap: 8px;
 }
 .rules-link {
